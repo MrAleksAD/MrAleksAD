@@ -1,6 +1,5 @@
 # Hi, I'm Aleks 👋
-Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+Jubior Software Engineer with more than 1 years of commertial experience. I have excellent knowledge in backend development on Python.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
@@ -17,6 +16,8 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 
+   <a href="[http://site.ru](https://docs.google.com/spreadsheets/d/1hJeIoFVYuCwjO-rC83okDPHGqKE58Nyl8AE4V-lTrIA/edit?usp=sharing
+)">Google doc test cases</a>
 
 
 ## 🛠 Technical Stack
