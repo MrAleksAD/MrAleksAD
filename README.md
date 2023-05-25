@@ -15,7 +15,9 @@ Jubior Software Engineer with more than 1 years of commertial experience. I have
    <a href="https://t.me/joinchat/@MrAleksLTD">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
- 
+      <a href="[https://t.me/joinchat/@MrAleksLTD](https://career.habr.com/aleks_qa)">
+       <img src="http://www.digiseller.ru/preview/379219/p2_2503222_565d9d5c.png"/>
+   </a>
   <p align='center'>
    <a href="https://docs.google.com/spreadsheets/d/1hJeIoFVYuCwjO-rC83okDPHGqKE58Nyl8AE4V-lTrIA/edit?usp=sharing">
        <img src="https://leitz-cloud.com/assets/img/Google-Drive.png"/></a>
