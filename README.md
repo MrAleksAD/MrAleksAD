@@ -3,11 +3,10 @@ Senior Software Engineer with more than 5 years of commertial experience. I have
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=MrAleksAD&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=MrAleksAD&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/MrAleksAD/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAleksAD&layout=compact"/></a>
+   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=MrAleksAD&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAleksAD&layout=compact"/></a>
 </p>
 
 <p align='center'>
@@ -22,7 +21,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 
 ## 🛠 Technical Stack
 *   Python languages
-*   MySQL, PostgreSQL, Liquibase
-*   GitHub/GitLab/Gerrit
+*   MySQL, PostgreSQL
+*   GitHub/GitLab
 
 
