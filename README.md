@@ -18,7 +18,7 @@ Jubior Software Engineer with more than 1 years of commertial experience. I have
  
   <p align='center'>
    <a href="https://docs.google.com/spreadsheets/d/1hJeIoFVYuCwjO-rC83okDPHGqKE58Nyl8AE4V-lTrIA/edit?usp=sharing">
-       <img src="https://commons.wikimedia.org/wiki/File:Google_Drive_icon_(2020).svg"/>
+       <img src="https://icons8.com/icon/ya4CrqO7PgnY/google-drive"/>
     </a>
 
 
