@@ -18,8 +18,7 @@ Jubior Software Engineer with more than 1 years of commertial experience. I have
  
   <p align='center'>
    <a href="https://docs.google.com/spreadsheets/d/1hJeIoFVYuCwjO-rC83okDPHGqKE58Nyl8AE4V-lTrIA/edit?usp=sharing">
-       <img src="https://icons8.com/icon/79wTQqs2RdnG/google-drive"/>
-    </a>
+       <img src="https://leitz-cloud.com/assets/img/Google-Drive.png"/></a>
 
 
 ## 🛠 Technical Stack
