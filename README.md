@@ -17,8 +17,8 @@ Jubior Software Engineer with more than 1 years of commertial experience. I have
    </a>
  
   <p align='center'>
-   <a href="https://docs.google.com/spreadsheets/d/1hJeIoFVYuCwjO-rC83okDPHGqKE58Nyl8AE4V-lTrIA/edit?usp=sharing
-      ">Google doc test cases
+   <a href="https://docs.google.com/spreadsheets/d/1hJeIoFVYuCwjO-rC83okDPHGqKE58Nyl8AE4V-lTrIA/edit?usp=sharing">
+       <img src="https://img.shields.io/badge/<Test>-<suite>-<red>"/>
     </a>
 
 
