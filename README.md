@@ -16,9 +16,9 @@ Jubior Software Engineer with more than 1 years of commertial experience. I have
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 
-   <a href="[https://docs.google.com/spreadsheets/d/1hJeIoFVYuCwjO-rC83okDPHGqKE58Nyl8AE4V-lTrIA/edit?usp=sharing
-]">Google doc test cases</a>
 
+https://docs.google.com/spreadsheets/d/1hJeIoFVYuCwjO-rC83okDPHGqKE58Nyl8AE4V-lTrIA/edit?usp=sharing
+Google doc test cases
 
 ## 🛠 Technical Stack
 *   Python languages
