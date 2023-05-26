@@ -1,5 +1,5 @@
 # Hi, I'm Aleks 👋
-Jubior Software Engineer with more than 1 years of commertial experience. I have excellent knowledge in backend development on Python.
+Junior Software Engineer with more than 1 years of commertial experience. I have excellent knowledge in software testing.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
