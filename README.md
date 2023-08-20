@@ -25,8 +25,12 @@ Junior Software Engineer with more than 1 years of commertial experience. I have
 
 
 ## 🛠 Technical Stack
-*   Python languages
-*   MySQL, PostgreSQL
+*   DevTools 
+*   MySQL
 *   GitHub/GitLab
-
+*   JMeter
+*   Postman(REST API)
+*   Charles
+*   Linux
+*   Dart language and framework flutter
 
