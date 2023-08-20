@@ -1,6 +1,5 @@
 # Hi, I'm Aleks 👋
-Junior Software Engineer with more than 1 years of commertial experience. I have excellent knowledge in software testing.
-
+Quality control engineer with more than 1 year of experience in the commercial field. I have excellent knowledge in the field of web application testing.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=MrAleksAD&show_icons=true&count_private=true"/></a>
