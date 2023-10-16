@@ -3,7 +3,7 @@ Quality control engineer with more than 1 year of experience in the commercial f
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=MrAleksAD&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats">
+   <a href="https://github.com/MrAleksAD/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAleksAD&layout=compact"/></a>
 </p>
 
@@ -15,7 +15,7 @@ Quality control engineer with more than 1 year of experience in the commercial f
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
  <p align='center'>     
-   <a href="[https://t.me/joinchat/@MrAleksLTD](https://career.habr.com/aleks_qa)">
+   <a href="https://career.habr.com/aleks_qa">
        <img src="http://www.digiseller.ru/preview/379219/p2_2503222_565d9d5c.png"/>
    </a>
   <p align='center'>
