@@ -31,5 +31,4 @@ Quality control engineer with more than 1 year of experience in the commercial f
 *   Postman(REST API)
 *   Charles
 *   Linux
-*   Dart language and framework flutter
 
